@@ -39,7 +39,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: 첼시 사이트 상태
   introTitle: "**Upptime** for Chelsea"
-  introMessage: 첼시에서 운영되는 사이트들의 현재 상태입니다. \n Gitub의 Action을 사용하고, Upptime의 오픈소스를 사용하였습니다.
+  introMessage: 첼시에서 운영되는 사이트들의 현재 상태입니다. Gitub의 Action을 사용하고, Upptime의 오픈소스를 사용하였습니다.
   navbar:
     - title: Status
       href: /
