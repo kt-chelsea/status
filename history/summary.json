@@ -60,23 +60,23 @@
     "url": "http://chat.chelsea.kt.co.kr/login",
     "slug": "matter-most",
     "status": "up",
-    "uptime": "99.89",
+    "uptime": "100.00",
     "time": 434
   },
   {
     "name": "Xwiki",
     "url": "http://wiki.chelsea.kt.co.kr/xwiki/bin/view/Main/",
     "slug": "xwiki",
-    "status": "down",
-    "uptime": "99.92",
-    "time": 730
+    "status": "up",
+    "uptime": "100.00",
+    "time": 717
   },
   {
     "name": "SonarQube",
     "url": "http://codeanlys.chelsea.kt.co.kr/sessions/new?return_to=%2F",
     "slug": "sonar-qube",
     "status": "down",
-    "uptime": "99.96",
+    "uptime": "99.95",
     "time": 429
   },
   {
@@ -84,7 +84,7 @@
     "url": "http://codeanlys.chelsea.kt.co.kr/sessions/new?return_to=%2F",
     "slug": "reviewboard",
     "status": "down",
-    "uptime": "99.99",
+    "uptime": "99.98",
     "time": 143
   }
 ]
