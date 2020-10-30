@@ -41,12 +41,12 @@ status-website:
   introTitle: "**Upptime** for Chelsea"
   introMessage: 첼시에서 운영되는 사이트들의 현재 상태입니다. Gitub의 Action을 사용하고, Upptime의 오픈소스를 사용하였습니다.
   navbar:
-    - title: Status
-      href: /
+#     - title: Status
+#       href: /status
     - title: Chelsea
       href: http://chelsea.kt.co.kr
-#     - title: GitHub
-#       href: https://github.com/$OWNER/$REPO
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
