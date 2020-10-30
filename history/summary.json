@@ -75,16 +75,16 @@
     "name": "SonarQube",
     "url": "http://codeanlys.chelsea.kt.co.kr/sessions/new?return_to=%2F",
     "slug": "sonar-qube",
-    "status": "down",
-    "uptime": "99.95",
-    "time": 429
+    "status": "up",
+    "uptime": "100.00",
+    "time": 456
   },
   {
     "name": "Reviewboard",
     "url": "http://codeanlys.chelsea.kt.co.kr/sessions/new?return_to=%2F",
     "slug": "reviewboard",
-    "status": "down",
-    "uptime": "99.98",
-    "time": 143
+    "status": "up",
+    "uptime": "100.00",
+    "time": 146
   }
 ]
