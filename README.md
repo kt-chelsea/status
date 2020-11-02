@@ -1,4 +1,4 @@
-# [📈 Live Status](https://kt-chelsea.github.io/status/): <!--live status--> **🟨 Partial outage**
+# [📈 Live Status](https://kt-chelsea.github.io/status/): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [kt-chelsea](https://kt-chelsea.github.io/status/), powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -14,7 +14,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 <!--start: status pages-->
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [Chelsea](http://chelsea.kt.co.kr) | 🟥 Down | [chelsea.yml](https://github.com/kt-chelsea/status/commits/master/history/chelsea.yml) | <img alt="Response time graph" src="./graphs/chelsea.png" height="20"> 556ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkt-chelsea%2Fstatus%2Fmaster%2Fapi%2Fchelsea%2Fuptime.json)
+| [Chelsea](http://chelsea.kt.co.kr) | 🟩 Up | [chelsea.yml](https://github.com/kt-chelsea/status/commits/master/history/chelsea.yml) | <img alt="Response time graph" src="./graphs/chelsea.png" height="20"> 551ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkt-chelsea%2Fstatus%2Fmaster%2Fapi%2Fchelsea%2Fuptime.json)
 | [KTDN](http://ktdn.chelsea.kt.co.kr) | 🟩 Up | [ktdn.yml](https://github.com/kt-chelsea/status/commits/master/history/ktdn.yml) | <img alt="Response time graph" src="./graphs/ktdn.png" height="20"> 477ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkt-chelsea%2Fstatus%2Fmaster%2Fapi%2Fktdn%2Fuptime.json)
 | [Gitlab](http://scm.chelsea.kt.co.kr) | 🟩 Up | [gitlab.yml](https://github.com/kt-chelsea/status/commits/master/history/gitlab.yml) | <img alt="Response time graph" src="./graphs/gitlab.png" height="20"> 708ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkt-chelsea%2Fstatus%2Fmaster%2Fapi%2Fgitlab%2Fuptime.json)
 | [Orchestra](http://issue.chelsea.kt.co.kr) | 🟩 Up | [orchestra.yml](https://github.com/kt-chelsea/status/commits/master/history/orchestra.yml) | <img alt="Response time graph" src="./graphs/orchestra.png" height="20"> 1560ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkt-chelsea%2Fstatus%2Fmaster%2Fapi%2Forchestra%2Fuptime.json)
