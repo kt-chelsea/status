@@ -26,6 +26,12 @@ sites:
     url: http://codeanlys.chelsea.kt.co.kr/sessions/new?return_to=%2F
   - name: Reviewboard
     url: http://codeanlys.chelsea.kt.co.kr/sessions/new?return_to=%2F
+  - name: Chelsea Product API
+    url: http://chelsea.kt.co.kr/chelsea/product
+  - name: Chelsea Project API
+    url: http://chelsea.kt.co.kr/chelsea/project
+  - name: KTDN Article API
+    url: http://ktdn.chelsea.kt.co.kr/api/v1/articles
     
 notifications:
   - type: slack
