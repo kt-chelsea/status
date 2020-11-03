@@ -13,7 +13,7 @@
     "slug": "ktdn",
     "status": "up",
     "uptime": "100.00",
-    "time": 470
+    "time": 478
   },
   {
     "name": "Gitlab",
@@ -21,7 +21,7 @@
     "slug": "gitlab",
     "status": "up",
     "uptime": "100.00",
-    "time": 650
+    "time": 654
   },
   {
     "name": "Orchestra",
@@ -29,7 +29,7 @@
     "slug": "orchestra",
     "status": "up",
     "uptime": "100.00",
-    "time": 1298
+    "time": 1299
   },
   {
     "name": "Nexus",
@@ -37,7 +37,7 @@
     "slug": "nexus",
     "status": "up",
     "uptime": "100.00",
-    "time": 388
+    "time": 402
   },
   {
     "name": "Jenkins",
@@ -45,7 +45,7 @@
     "slug": "jenkins",
     "status": "up",
     "uptime": "100.00",
-    "time": 430
+    "time": 434
   },
   {
     "name": "Ansible",
@@ -53,7 +53,7 @@
     "slug": "ansible",
     "status": "up",
     "uptime": "100.00",
-    "time": 462
+    "time": 474
   },
   {
     "name": "MatterMost",
@@ -61,7 +61,7 @@
     "slug": "matter-most",
     "status": "up",
     "uptime": "100.00",
-    "time": 387
+    "time": 392
   },
   {
     "name": "Xwiki",
@@ -69,7 +69,7 @@
     "slug": "xwiki",
     "status": "up",
     "uptime": "100.00",
-    "time": 593
+    "time": 598
   },
   {
     "name": "SonarQube",
@@ -77,7 +77,7 @@
     "slug": "sonar-qube",
     "status": "up",
     "uptime": "100.00",
-    "time": 386
+    "time": 392
   },
   {
     "name": "Reviewboard",
@@ -85,7 +85,7 @@
     "slug": "reviewboard",
     "status": "up",
     "uptime": "100.00",
-    "time": 129
+    "time": 131
   },
   {
     "name": "Chelsea Product API",
@@ -93,7 +93,7 @@
     "slug": "chelsea-product-api",
     "status": "up",
     "uptime": "100.00",
-    "time": 229
+    "time": 248
   },
   {
     "name": "Chelsea Project API",
@@ -101,7 +101,7 @@
     "slug": "chelsea-project-api",
     "status": "up",
     "uptime": "100.00",
-    "time": 111
+    "time": 119
   },
   {
     "name": "KTDN Article API",
@@ -109,6 +109,6 @@
     "slug": "ktdn-article-api",
     "status": "up",
     "uptime": "100.00",
-    "time": 1770
+    "time": 1914
   }
 ]
