@@ -5,7 +5,7 @@
     "slug": "chelsea",
     "status": "up",
     "uptime": "100.00",
-    "time": 466
+    "time": 477
   },
   {
     "name": "KTDN",
@@ -13,7 +13,7 @@
     "slug": "ktdn",
     "status": "up",
     "uptime": "100.00",
-    "time": 428
+    "time": 441
   },
   {
     "name": "Gitlab",
@@ -21,7 +21,7 @@
     "slug": "gitlab",
     "status": "up",
     "uptime": "100.00",
-    "time": 585
+    "time": 603
   },
   {
     "name": "Orchestra",
@@ -37,7 +37,7 @@
     "slug": "nexus",
     "status": "up",
     "uptime": "100.00",
-    "time": 376
+    "time": 382
   },
   {
     "name": "Jenkins",
@@ -45,7 +45,7 @@
     "slug": "jenkins",
     "status": "up",
     "uptime": "100.00",
-    "time": 411
+    "time": 427
   },
   {
     "name": "Ansible",
@@ -53,7 +53,7 @@
     "slug": "ansible",
     "status": "up",
     "uptime": "100.00",
-    "time": 421
+    "time": 436
   },
   {
     "name": "MatterMost",
@@ -61,7 +61,7 @@
     "slug": "matter-most",
     "status": "up",
     "uptime": "100.00",
-    "time": 363
+    "time": 380
   },
   {
     "name": "Xwiki",
@@ -69,7 +69,7 @@
     "slug": "xwiki",
     "status": "up",
     "uptime": "100.00",
-    "time": 592
+    "time": 596
   },
   {
     "name": "SonarQube",
@@ -77,7 +77,7 @@
     "slug": "sonar-qube",
     "status": "up",
     "uptime": "100.00",
-    "time": 372
+    "time": 379
   },
   {
     "name": "Reviewboard",
@@ -85,7 +85,7 @@
     "slug": "reviewboard",
     "status": "up",
     "uptime": "100.00",
-    "time": 122
+    "time": 125
   },
   {
     "name": "Chelsea Product API",
@@ -93,7 +93,7 @@
     "slug": "chelsea-product-api",
     "status": "up",
     "uptime": "100.00",
-    "time": 120
+    "time": 180
   },
   {
     "name": "Chelsea Project API",
@@ -101,7 +101,7 @@
     "slug": "chelsea-project-api",
     "status": "up",
     "uptime": "100.00",
-    "time": 58
+    "time": 89
   },
   {
     "name": "KTDN Article API",
@@ -109,6 +109,6 @@
     "slug": "ktdn-article-api",
     "status": "up",
     "uptime": "100.00",
-    "time": 873
+    "time": 1312
   }
 ]
