@@ -11,9 +11,9 @@
     "name": "KTDN",
     "url": "http://ktdn.chelsea.kt.co.kr",
     "slug": "ktdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 487
+    "time": 465
   },
   {
     "name": "Gitlab",
