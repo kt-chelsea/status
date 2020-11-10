@@ -1,7 +1,7 @@
 - url: http://ktdn.chelsea.kt.co.kr/api/v1/articles
-- status: down
-- code: 502
-- responseTime: 373
-- lastUpdated: 2020-11-10T07:22:08.631Z
+- status: up
+- code: 200
+- responseTime: 2963
+- lastUpdated: 2020-11-10T07:58:40.407Z
 - startTime: 2020-11-03T03:25:21.226Z
 - generator: Upptime <https://github.com/upptime/upptime>
