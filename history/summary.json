@@ -91,8 +91,8 @@
     "name": "KTDN Article API",
     "url": "http://ktdn.chelsea.kt.co.kr/api/v1/articles",
     "slug": "ktdn-article-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 2277
+    "time": 2151
   }
 ]
