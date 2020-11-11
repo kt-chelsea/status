@@ -3,9 +3,9 @@
     "name": "Chelsea",
     "url": "http://chelsea.kt.co.kr",
     "slug": "chelsea",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 564
+    "status": "down",
+    "uptime": "99.99",
+    "time": 547
   },
   {
     "name": "KTDN",
@@ -19,9 +19,9 @@
     "name": "Gitlab",
     "url": "http://scm.chelsea.kt.co.kr",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 704
+    "time": 680
   },
   {
     "name": "Orchestra",
