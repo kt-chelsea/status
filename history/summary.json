@@ -5,7 +5,7 @@
     "slug": "chelsea",
     "status": "up",
     "uptime": "100.00",
-    "time": 545
+    "time": 540
   },
   {
     "name": "KTDN",
@@ -21,7 +21,7 @@
     "slug": "gitlab",
     "status": "up",
     "uptime": "100.00",
-    "time": 684
+    "time": 682
   },
   {
     "name": "Orchestra",
@@ -29,7 +29,7 @@
     "slug": "orchestra",
     "status": "up",
     "uptime": "100.00",
-    "time": 1513
+    "time": 1505
   },
   {
     "name": "Nexus",
@@ -37,7 +37,7 @@
     "slug": "nexus",
     "status": "up",
     "uptime": "100.00",
-    "time": 439
+    "time": 437
   },
   {
     "name": "Jenkins",
@@ -45,7 +45,7 @@
     "slug": "jenkins",
     "status": "up",
     "uptime": "100.00",
-    "time": 470
+    "time": 468
   },
   {
     "name": "Ansible",
@@ -53,7 +53,7 @@
     "slug": "ansible",
     "status": "up",
     "uptime": "100.00",
-    "time": 490
+    "time": 489
   },
   {
     "name": "MatterMost",
@@ -61,7 +61,7 @@
     "slug": "matter-most",
     "status": "up",
     "uptime": "100.00",
-    "time": 428
+    "time": 426
   },
   {
     "name": "Xwiki",
@@ -69,7 +69,7 @@
     "slug": "xwiki",
     "status": "up",
     "uptime": "100.00",
-    "time": 640
+    "time": 643
   },
   {
     "name": "Chelsea Product API",
@@ -93,6 +93,6 @@
     "slug": "ktdn-article-api",
     "status": "up",
     "uptime": "100.00",
-    "time": 2057
+    "time": 2087
   }
 ]
