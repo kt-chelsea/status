@@ -1,7 +1,7 @@
 - url: http://deploy.chelsea.kt.co.kr/#/login
-- status: down
-- code: 0
-- responseTime: 0
-- lastUpdated: 2020-11-13T04:37:34.985Z
+- status: up
+- code: 200
+- responseTime: 944
+- lastUpdated: 2020-11-13T04:46:30.287Z
 - startTime: 2020-10-29T11:39:41.292Z
 - generator: Upptime <https://github.com/upptime/upptime>
