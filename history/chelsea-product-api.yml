@@ -1,7 +1,7 @@
 - url: http://chelsea.kt.co.kr/chelsea/product
-- status: up
-- code: 200
-- responseTime: 297
-- lastUpdated: 2020-11-12T23:14:22.137Z
+- status: down
+- code: 0
+- responseTime: 0
+- lastUpdated: 2020-11-13T04:39:09.557Z
 - startTime: 2020-11-03T03:25:19.718Z
 - generator: Upptime <https://github.com/upptime/upptime>
