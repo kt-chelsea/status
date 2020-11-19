@@ -1,7 +1,7 @@
 - url: http://build.chelsea.kt.co.kr
-- status: down
+- status: up
 - code: 200
-- responseTime: 819
-- lastUpdated: 2020-11-19T06:47:11.246Z
+- responseTime: 754
+- lastUpdated: 2020-11-19T06:53:04.260Z
 - startTime: 2020-10-29T11:39:39.290Z
 - generator: Upptime <https://github.com/upptime/upptime>
