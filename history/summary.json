@@ -3,96 +3,96 @@
     "name": "Chelsea",
     "url": "http://chelsea.kt.co.kr",
     "slug": "chelsea",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 555
+    "time": 561
   },
   {
     "name": "KTDN",
     "url": "http://ktdn.chelsea.kt.co.kr",
     "slug": "ktdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 558
+    "time": 566
   },
   {
     "name": "Gitlab",
     "url": "http://scm.chelsea.kt.co.kr",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 704
+    "time": 725
   },
   {
     "name": "Orchestra",
     "url": "http://issue.chelsea.kt.co.kr",
     "slug": "orchestra",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 1700
+    "time": 1696
   },
   {
     "name": "Nexus",
     "url": "http://repo.chelsea.kt.co.kr",
     "slug": "nexus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 464
+    "time": 475
   },
   {
     "name": "Jenkins",
     "url": "http://build.chelsea.kt.co.kr",
     "slug": "jenkins",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 504
+    "time": 511
   },
   {
     "name": "Ansible",
     "url": "http://deploy.chelsea.kt.co.kr/#/login",
     "slug": "ansible",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 512
+    "time": 533
   },
   {
     "name": "MatterMost",
     "url": "http://chat.chelsea.kt.co.kr/login",
     "slug": "matter-most",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 444
+    "time": 455
   },
   {
     "name": "Xwiki",
     "url": "http://wiki.chelsea.kt.co.kr/xwiki/bin/view/Main/",
     "slug": "xwiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 649
+    "time": 657
   },
   {
     "name": "Chelsea Product API",
     "url": "http://chelsea.kt.co.kr/chelsea/product",
     "slug": "chelsea-product-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 296
+    "time": 300
   },
   {
     "name": "Chelsea Project API",
     "url": "http://chelsea.kt.co.kr/chelsea/project",
     "slug": "chelsea-project-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 151
+    "time": 153
   },
   {
     "name": "KTDN Article API",
     "url": "http://ktdn.chelsea.kt.co.kr/api/v1/articles",
     "slug": "ktdn-article-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 2168
+    "time": 2192
   }
 ]
