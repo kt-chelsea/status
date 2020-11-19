@@ -1,7 +1,7 @@
 - url: http://wiki.chelsea.kt.co.kr/xwiki/bin/view/Main/
-- status: up
+- status: down
 - code: 200
-- responseTime: 551
-- lastUpdated: 2020-11-18T23:18:24.682Z
+- responseTime: 959
+- lastUpdated: 2020-11-19T06:47:20.805Z
 - startTime: 2020-10-29T11:39:44.832Z
 - generator: Upptime <https://github.com/upptime/upptime>
