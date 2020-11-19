@@ -1,7 +1,7 @@
 - url: http://chat.chelsea.kt.co.kr/login
-- status: down
+- status: up
 - code: 200
-- responseTime: 907
-- lastUpdated: 2020-11-19T06:47:17.691Z
+- responseTime: 768
+- lastUpdated: 2020-11-19T06:53:09.306Z
 - startTime: 2020-10-29T11:39:43.133Z
 - generator: Upptime <https://github.com/upptime/upptime>
