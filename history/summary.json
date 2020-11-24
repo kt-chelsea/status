@@ -3,33 +3,33 @@
     "name": "Chelsea",
     "url": "http://chelsea.kt.co.kr",
     "slug": "chelsea",
-    "status": "down",
-    "uptime": "99.82%",
-    "time": 576
+    "status": "up",
+    "uptime": "99.78%",
+    "time": 580
   },
   {
     "name": "KTDN",
     "url": "http://ktdn.chelsea.kt.co.kr",
     "slug": "ktdn",
-    "status": "down",
-    "uptime": "99.85%",
-    "time": 564
+    "status": "up",
+    "uptime": "99.82%",
+    "time": 568
   },
   {
     "name": "Gitlab",
     "url": "http://scm.chelsea.kt.co.kr",
     "slug": "gitlab",
-    "status": "down",
-    "uptime": "99.85%",
-    "time": 747
+    "status": "up",
+    "uptime": "99.82%",
+    "time": 753
   },
   {
     "name": "Orchestra",
     "url": "http://issue.chelsea.kt.co.kr",
     "slug": "orchestra",
-    "status": "down",
-    "uptime": "99.87%",
-    "time": 1604
+    "status": "up",
+    "uptime": "99.83%",
+    "time": 1600
   },
   {
     "name": "Nexus",
@@ -43,9 +43,9 @@
     "name": "Jenkins",
     "url": "http://build.chelsea.kt.co.kr",
     "slug": "jenkins",
-    "status": "down",
-    "uptime": "99.88%",
-    "time": 505
+    "status": "up",
+    "uptime": "99.84%",
+    "time": 507
   },
   {
     "name": "Ansible",
