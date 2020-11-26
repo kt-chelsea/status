@@ -4,16 +4,16 @@
     "url": "http://chelsea.kt.co.kr",
     "slug": "chelsea",
     "status": "up",
-    "uptime": "99.79%",
-    "time": 579
+    "uptime": "99.80%",
+    "time": 583
   },
   {
     "name": "KTDN",
     "url": "http://ktdn.chelsea.kt.co.kr",
     "slug": "ktdn",
     "status": "up",
-    "uptime": "99.82%",
-    "time": 565
+    "uptime": "99.83%",
+    "time": 569
   },
   {
     "name": "Gitlab",
@@ -21,15 +21,15 @@
     "slug": "gitlab",
     "status": "up",
     "uptime": "99.80%",
-    "time": 760
+    "time": 774
   },
   {
     "name": "Orchestra",
     "url": "http://issue.chelsea.kt.co.kr",
     "slug": "orchestra",
     "status": "up",
-    "uptime": "99.83%",
-    "time": 1593
+    "uptime": "99.84%",
+    "time": 1604
   },
   {
     "name": "Nexus",
@@ -37,7 +37,7 @@
     "slug": "nexus",
     "status": "up",
     "uptime": "99.88%",
-    "time": 513
+    "time": 519
   },
   {
     "name": "Jenkins",
@@ -45,7 +45,7 @@
     "slug": "jenkins",
     "status": "up",
     "uptime": "99.85%",
-    "time": 507
+    "time": 510
   },
   {
     "name": "Ansible",
@@ -53,7 +53,7 @@
     "slug": "ansible",
     "status": "up",
     "uptime": "99.89%",
-    "time": 537
+    "time": 542
   },
   {
     "name": "MatterMost",
@@ -61,23 +61,23 @@
     "slug": "matter-most",
     "status": "up",
     "uptime": "99.90%",
-    "time": 506
+    "time": 509
   },
   {
     "name": "Xwiki",
     "url": "http://wiki.chelsea.kt.co.kr/xwiki/bin/view/Main/",
     "slug": "xwiki",
     "status": "up",
-    "uptime": "99.90%",
-    "time": 668
+    "uptime": "99.91%",
+    "time": 671
   },
   {
     "name": "Chelsea Product API",
     "url": "http://chelsea.kt.co.kr/chelsea/product",
     "slug": "chelsea-product-api",
     "status": "up",
-    "uptime": "99.89%",
-    "time": 301
+    "uptime": "99.90%",
+    "time": 304
   },
   {
     "name": "Chelsea Project API",
@@ -85,14 +85,14 @@
     "slug": "chelsea-project-api",
     "status": "up",
     "uptime": "99.90%",
-    "time": 155
+    "time": 158
   },
   {
     "name": "KTDN Article API",
     "url": "http://ktdn.chelsea.kt.co.kr/api/v1/articles",
     "slug": "ktdn-article-api",
     "status": "up",
-    "uptime": "99.61%",
-    "time": 2234
+    "uptime": "99.62%",
+    "time": 2255
   }
 ]
