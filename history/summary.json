@@ -4,8 +4,8 @@
     "url": "http://chelsea.kt.co.kr",
     "slug": "chelsea",
     "status": "up",
-    "uptime": "99.81%",
-    "time": 590
+    "uptime": "99.82%",
+    "time": 601
   },
   {
     "name": "KTDN",
@@ -21,15 +21,15 @@
     "slug": "gitlab",
     "status": "up",
     "uptime": "99.82%",
-    "time": 803
+    "time": 807
   },
   {
     "name": "Orchestra",
     "url": "http://issue.chelsea.kt.co.kr",
     "slug": "orchestra",
     "status": "up",
-    "uptime": "99.85%",
-    "time": 1607
+    "uptime": "99.86%",
+    "time": 1608
   },
   {
     "name": "Nexus",
@@ -44,8 +44,8 @@
     "url": "http://build.chelsea.kt.co.kr",
     "slug": "jenkins",
     "status": "up",
-    "uptime": "99.86%",
-    "time": 513
+    "uptime": "99.87%",
+    "time": 516
   },
   {
     "name": "Ansible",
@@ -53,7 +53,7 @@
     "slug": "ansible",
     "status": "up",
     "uptime": "99.90%",
-    "time": 545
+    "time": 549
   },
   {
     "name": "MatterMost",
@@ -61,7 +61,7 @@
     "slug": "matter-most",
     "status": "up",
     "uptime": "99.91%",
-    "time": 514
+    "time": 516
   },
   {
     "name": "Xwiki",
@@ -69,15 +69,15 @@
     "slug": "xwiki",
     "status": "up",
     "uptime": "99.91%",
-    "time": 684
+    "time": 702
   },
   {
     "name": "Chelsea Product API",
     "url": "http://chelsea.kt.co.kr/chelsea/product",
     "slug": "chelsea-product-api",
     "status": "up",
-    "uptime": "99.90%",
-    "time": 310
+    "uptime": "99.91%",
+    "time": 312
   },
   {
     "name": "Chelsea Project API",
@@ -85,14 +85,14 @@
     "slug": "chelsea-project-api",
     "status": "up",
     "uptime": "99.91%",
-    "time": 161
+    "time": 162
   },
   {
     "name": "KTDN Article API",
     "url": "http://ktdn.chelsea.kt.co.kr/api/v1/articles",
     "slug": "ktdn-article-api",
     "status": "up",
-    "uptime": "99.65%",
-    "time": 2283
+    "uptime": "99.67%",
+    "time": 2300
   }
 ]
