@@ -19,9 +19,9 @@
     "name": "Gitlab",
     "url": "http://scm.chelsea.kt.co.kr",
     "slug": "gitlab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "time": 811
+    "time": 810
   },
   {
     "name": "Orchestra",
@@ -59,9 +59,9 @@
     "name": "MatterMost",
     "url": "http://chat.chelsea.kt.co.kr/login",
     "slug": "matter-most",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "time": 515
+    "time": 516
   },
   {
     "name": "Xwiki",
