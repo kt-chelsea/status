@@ -43,9 +43,9 @@
     "name": "Jenkins",
     "url": "http://build.chelsea.kt.co.kr",
     "slug": "jenkins",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "time": 518
+    "time": 532
   },
   {
     "name": "Ansible",
