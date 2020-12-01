@@ -19,9 +19,9 @@
     "name": "Gitlab",
     "url": "http://scm.chelsea.kt.co.kr",
     "slug": "gitlab",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "time": 810
+    "time": 814
   },
   {
     "name": "Orchestra",
@@ -44,7 +44,7 @@
     "url": "http://build.chelsea.kt.co.kr",
     "slug": "jenkins",
     "status": "down",
-    "uptime": "99.88%",
+    "uptime": "99.86%",
     "time": 532
   },
   {
