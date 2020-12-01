@@ -12,23 +12,23 @@
     "url": "http://ktdn.chelsea.kt.co.kr",
     "slug": "ktdn",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "time": 587
   },
   {
     "name": "Gitlab",
     "url": "http://scm.chelsea.kt.co.kr",
     "slug": "gitlab",
-    "status": "up",
-    "uptime": "99.83%",
-    "time": 809
+    "status": "down",
+    "uptime": "99.84%",
+    "time": 810
   },
   {
     "name": "Orchestra",
     "url": "http://issue.chelsea.kt.co.kr",
     "slug": "orchestra",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "time": 1602
   },
   {
@@ -60,7 +60,7 @@
     "url": "http://chat.chelsea.kt.co.kr/login",
     "slug": "matter-most",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "time": 515
   },
   {
@@ -76,7 +76,7 @@
     "url": "http://chelsea.kt.co.kr/chelsea/product",
     "slug": "chelsea-product-api",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "time": 313
   },
   {
@@ -92,7 +92,7 @@
     "url": "http://ktdn.chelsea.kt.co.kr/api/v1/articles",
     "slug": "ktdn-article-api",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.70%",
     "time": 2317
   }
 ]
