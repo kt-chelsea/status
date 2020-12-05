@@ -4,16 +4,16 @@
     "url": "http://chelsea.kt.co.kr",
     "slug": "chelsea",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 740,
-    "timeDay": 772,
-    "timeWeek": 1014,
-    "timeMonth": 795,
-    "timeYear": 740
+    "uptimeYear": "99.85%",
+    "time": 749,
+    "timeDay": 1292,
+    "timeWeek": 1085,
+    "timeMonth": 815,
+    "timeYear": 749
   },
   {
     "name": "KTDN",
@@ -25,27 +25,27 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.87%",
-    "time": 698,
-    "timeDay": 752,
-    "timeWeek": 672,
-    "timeMonth": 739,
-    "timeYear": 698
+    "time": 696,
+    "timeDay": 598,
+    "timeWeek": 645,
+    "timeMonth": 748,
+    "timeYear": 696
   },
   {
     "name": "Gitlab",
     "url": "http://scm.chelsea.kt.co.kr",
     "slug": "gitlab",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.80%",
-    "uptimeYear": "99.82%",
-    "time": 954,
-    "timeDay": 1042,
-    "timeWeek": 994,
-    "timeMonth": 1008,
-    "timeYear": 954
+    "uptimeYear": "99.83%",
+    "time": 956,
+    "timeDay": 1060,
+    "timeWeek": 947,
+    "timeMonth": 1006,
+    "timeYear": 956
   },
   {
     "name": "Orchestra",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.88%",
-    "time": 1929,
-    "timeDay": 2610,
-    "timeWeek": 2087,
-    "timeMonth": 1915,
-    "timeYear": 1929
+    "time": 1922,
+    "timeDay": 1496,
+    "timeWeek": 2052,
+    "timeMonth": 1920,
+    "timeYear": 1922
   },
   {
     "name": "Nexus",
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.91%",
-    "time": 618,
-    "timeDay": 739,
-    "timeWeek": 674,
-    "timeMonth": 666,
-    "timeYear": 618
+    "time": 620,
+    "timeDay": 736,
+    "timeWeek": 667,
+    "timeMonth": 676,
+    "timeYear": 620
   },
   {
     "name": "Jenkins",
@@ -90,9 +90,9 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.86%",
     "time": 631,
-    "timeDay": 768,
-    "timeWeek": 756,
-    "timeMonth": 669,
+    "timeDay": 596,
+    "timeWeek": 754,
+    "timeMonth": 674,
     "timeYear": 631
   },
   {
@@ -105,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
-    "time": 644,
-    "timeDay": 627,
-    "timeWeek": 694,
-    "timeMonth": 669,
-    "timeYear": 644
+    "time": 646,
+    "timeDay": 772,
+    "timeWeek": 713,
+    "timeMonth": 674,
+    "timeYear": 646
   },
   {
     "name": "MatterMost",
@@ -122,9 +122,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
     "time": 598,
-    "timeDay": 561,
-    "timeWeek": 603,
-    "timeMonth": 641,
+    "timeDay": 580,
+    "timeWeek": 584,
+    "timeMonth": 646,
     "timeYear": 598
   },
   {
@@ -137,27 +137,27 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
-    "time": 820,
-    "timeDay": 874,
-    "timeWeek": 993,
-    "timeMonth": 855,
-    "timeYear": 820
+    "time": 821,
+    "timeDay": 855,
+    "timeWeek": 971,
+    "timeMonth": 864,
+    "timeYear": 821
   },
   {
     "name": "Chelsea Product API",
     "url": "http://chelsea.kt.co.kr/chelsea/product",
     "slug": "chelsea-product-api",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 365,
-    "timeDay": 471,
-    "timeWeek": 401,
-    "timeMonth": 368,
-    "timeYear": 365
+    "uptimeYear": "99.93%",
+    "time": 366,
+    "timeDay": 403,
+    "timeWeek": 396,
+    "timeMonth": 370,
+    "timeYear": 366
   },
   {
     "name": "Chelsea Project API",
@@ -169,26 +169,26 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 189,
-    "timeDay": 215,
-    "timeWeek": 206,
-    "timeMonth": 193,
-    "timeYear": 189
+    "time": 190,
+    "timeDay": 213,
+    "timeWeek": 203,
+    "timeMonth": 194,
+    "timeYear": 190
   },
   {
     "name": "KTDN Article API",
     "url": "http://ktdn.chelsea.kt.co.kr/api/v1/articles",
     "slug": "ktdn-article-api",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
-    "time": 2654,
-    "timeDay": 2871,
+    "uptimeYear": "99.73%",
+    "time": 2659,
+    "timeDay": 2917,
     "timeWeek": 2903,
-    "timeMonth": 2648,
-    "timeYear": 2654
+    "timeMonth": 2660,
+    "timeYear": 2659
   }
 ]
