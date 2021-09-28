@@ -1,7 +1,7 @@
 url: http://scm.chelsea.kt.co.kr
-status: up
-code: 200
-responseTime: 969
-lastUpdated: 2021-09-27T23:19:54.536Z
+status: down
+code: 502
+responseTime: 568
+lastUpdated: 2021-09-28T09:27:44.701Z
 startTime: Thu Oct 29 2020 11:39:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
