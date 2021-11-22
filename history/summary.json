@@ -11,8 +11,8 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.91%",
     "time": 712,
-    "timeDay": 932,
-    "timeWeek": 985,
+    "timeDay": 651,
+    "timeWeek": 987,
     "timeMonth": 902,
     "timeYear": 715,
     "dailyMinutesDown": {
@@ -37,8 +37,7 @@
       "2021-01-14": 65,
       "2020-12-19": 20,
       "2020-11-24": 14,
-      "2020-11-23": 12,
-      "2020-11-22": 7
+      "2020-11-23": 12
     }
   },
   {
@@ -47,18 +46,19 @@
     "icon": "https://favicons.githubusercontent.com/ktdn.chelsea.kt.co.kr",
     "slug": "ktdn",
     "status": "down",
-    "uptime": "98.64%",
+    "uptime": "98.38%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "29.75%",
-    "uptimeMonth": "83.69%",
-    "uptimeYear": "98.56%",
+    "uptimeWeek": "15.48%",
+    "uptimeMonth": "80.40%",
+    "uptimeYear": "98.29%",
     "time": 689,
     "timeDay": 0,
-    "timeWeek": 606,
-    "timeMonth": 697,
+    "timeWeek": 487,
+    "timeMonth": 699,
     "timeYear": 689,
     "dailyMinutesDown": {
-      "2021-11-21": 46,
+      "2021-11-22": 44,
+      "2021-11-21": 1440,
       "2021-11-20": 1440,
       "2021-11-19": 1440,
       "2021-11-18": 1440,
@@ -85,8 +85,7 @@
       "2021-01-14": 65,
       "2020-12-19": 19,
       "2020-11-24": 14,
-      "2020-11-23": 12,
-      "2020-11-22": 6
+      "2020-11-23": 12
     }
   },
   {
@@ -100,11 +99,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.90%",
-    "time": 1025,
-    "timeDay": 1280,
-    "timeWeek": 1231,
-    "timeMonth": 1155,
-    "timeYear": 1039,
+    "time": 1024,
+    "timeDay": 906,
+    "timeWeek": 1242,
+    "timeMonth": 1147,
+    "timeYear": 1037,
     "dailyMinutesDown": {
       "2021-10-28": 22,
       "2021-10-25": 41,
@@ -127,8 +126,7 @@
       "2020-12-19": 19,
       "2020-12-01": 13,
       "2020-11-24": 23,
-      "2020-11-23": 11,
-      "2020-11-22": 6
+      "2020-11-23": 11
     }
   },
   {
@@ -142,10 +140,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.76%",
-    "time": 2096,
-    "timeDay": 1489,
-    "timeWeek": 1592,
-    "timeMonth": 1731,
+    "time": 2095,
+    "timeDay": 1414,
+    "timeWeek": 1579,
+    "timeMonth": 1721,
     "timeYear": 2109,
     "dailyMinutesDown": {
       "2021-11-04": 20,
@@ -168,8 +166,7 @@
       "2021-01-14": 64,
       "2020-12-19": 18,
       "2020-11-24": 14,
-      "2020-11-23": 11,
-      "2020-11-22": 5
+      "2020-11-23": 11
     }
   },
   {
@@ -184,10 +181,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
     "time": 1041,
-    "timeDay": 1289,
-    "timeWeek": 1585,
-    "timeMonth": 1430,
-    "timeYear": 1087,
+    "timeDay": 1156,
+    "timeWeek": 1552,
+    "timeMonth": 1426,
+    "timeYear": 1086,
     "dailyMinutesDown": {
       "2021-10-25": 40,
       "2021-09-11": 4,
@@ -204,8 +201,7 @@
       "2021-01-18": 57,
       "2021-01-14": 63,
       "2020-12-19": 18,
-      "2020-11-23": 10,
-      "2020-11-22": 5
+      "2020-11-23": 10
     }
   },
   {
@@ -219,10 +215,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.95%",
     "uptimeYear": "99.01%",
-    "time": 668,
-    "timeDay": 581,
-    "timeWeek": 573,
-    "timeMonth": 976,
+    "time": 667,
+    "timeDay": 523,
+    "timeWeek": 565,
+    "timeMonth": 974,
     "timeYear": 673,
     "dailyMinutesDown": {
       "2021-11-05": 411,
@@ -250,8 +246,7 @@
       "2020-12-12": 795,
       "2020-12-01": 16,
       "2020-11-24": 14,
-      "2020-11-23": 10,
-      "2020-11-22": 4
+      "2020-11-23": 10
     }
   },
   {
@@ -266,10 +261,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
     "time": 1054,
-    "timeDay": 1465,
-    "timeWeek": 1527,
-    "timeMonth": 1534,
-    "timeYear": 1096,
+    "timeDay": 1169,
+    "timeWeek": 1510,
+    "timeMonth": 1529,
+    "timeYear": 1097,
     "dailyMinutesDown": {
       "2021-10-25": 34,
       "2021-09-11": 4,
@@ -284,8 +279,7 @@
       "2021-01-18": 56,
       "2021-01-14": 62,
       "2020-12-19": 16,
-      "2020-11-23": 10,
-      "2020-11-22": 4
+      "2020-11-23": 10
     }
   },
   {
@@ -300,8 +294,8 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.94%",
     "time": 587,
-    "timeDay": 656,
-    "timeWeek": 582,
+    "timeDay": 653,
+    "timeWeek": 546,
     "timeMonth": 671,
     "timeYear": 590,
     "dailyMinutesDown": {
@@ -319,8 +313,7 @@
       "2021-01-18": 56,
       "2021-01-14": 62,
       "2020-12-19": 16,
-      "2020-11-23": 9,
-      "2020-11-22": 3
+      "2020-11-23": 9
     }
   },
   {
@@ -329,18 +322,19 @@
     "icon": "https://favicons.githubusercontent.com/wiki.chelsea.kt.co.kr",
     "slug": "xwiki",
     "status": "down",
-    "uptime": "81.18%",
+    "uptime": "80.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.02%",
+    "uptimeYear": "79.75%",
     "time": 831,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 838,
+    "timeYear": 837,
     "dailyMinutesDown": {
-      "2021-11-21": 46,
+      "2021-11-22": 44,
+      "2021-11-21": 1440,
       "2021-11-20": 1440,
       "2021-11-19": 1440,
       "2021-11-18": 1440,
@@ -428,8 +422,7 @@
       "2021-01-18": 55,
       "2021-01-14": 61,
       "2020-12-19": 15,
-      "2020-11-23": 9,
-      "2020-11-22": 3
+      "2020-11-23": 9
     }
   },
   {
@@ -444,9 +437,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
     "time": 374,
-    "timeDay": 386,
-    "timeWeek": 367,
-    "timeMonth": 385,
+    "timeDay": 347,
+    "timeWeek": 361,
+    "timeMonth": 384,
     "timeYear": 376,
     "dailyMinutesDown": {
       "2021-10-25": 32,
@@ -464,8 +457,7 @@
       "2021-01-14": 61,
       "2020-12-19": 15,
       "2020-12-18": 106,
-      "2020-11-23": 8,
-      "2020-11-22": 2
+      "2020-11-23": 8
     }
   },
   {
@@ -480,9 +472,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
     "time": 196,
-    "timeDay": 206,
-    "timeWeek": 196,
-    "timeMonth": 200,
+    "timeDay": 182,
+    "timeWeek": 192,
+    "timeMonth": 199,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2021-10-25": 32,
@@ -499,8 +491,7 @@
       "2021-01-14": 60,
       "2020-12-19": 14,
       "2020-12-18": 104,
-      "2020-11-23": 8,
-      "2020-11-22": 2
+      "2020-11-23": 8
     }
   },
   {
@@ -509,18 +500,19 @@
     "icon": "https://favicons.githubusercontent.com/ktdn.chelsea.kt.co.kr",
     "slug": "ktdn-article-api",
     "status": "down",
-    "uptime": "98.63%",
+    "uptime": "98.37%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "29.76%",
-    "uptimeMonth": "83.77%",
-    "uptimeYear": "98.58%",
+    "uptimeWeek": "15.49%",
+    "uptimeMonth": "80.48%",
+    "uptimeYear": "98.31%",
     "time": 1110,
     "timeDay": 0,
-    "timeWeek": 531,
+    "timeWeek": 557,
     "timeMonth": 521,
-    "timeYear": 990,
+    "timeYear": 985,
     "dailyMinutesDown": {
-      "2021-11-21": 46,
+      "2021-11-22": 44,
+      "2021-11-21": 1440,
       "2021-11-20": 1440,
       "2021-11-19": 1440,
       "2021-11-18": 1440,
@@ -540,8 +532,7 @@
       "2021-01-14": 60,
       "2020-12-19": 14,
       "2020-12-18": 103,
-      "2020-11-23": 7,
-      "2020-11-22": 1
+      "2020-11-23": 7
     }
   }
 ]
