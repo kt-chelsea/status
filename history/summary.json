@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/chelsea.kt.co.kr",
     "slug": "chelsea",
     "status": "down",
-    "uptime": "86.12%",
+    "uptime": "85.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "75.10%",
-    "time": 718,
+    "uptimeYear": "74.83%",
+    "time": 717,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 748,
+    "timeYear": 749,
     "dailyMinutesDown": {
-      "2022-08-17": 105,
+      "2022-08-18": 106,
+      "2022-08-17": 1440,
       "2022-08-16": 1440,
       "2022-08-15": 1440,
       "2022-08-14": 1440,
@@ -116,8 +117,7 @@
       "2021-10-25": 42,
       "2021-10-13": 9,
       "2021-09-29": 9,
-      "2021-09-11": 6,
-      "2021-08-18": 46
+      "2021-09-11": 6
     }
   },
   {
@@ -126,18 +126,19 @@
     "icon": "https://favicons.githubusercontent.com/ktdn.chelsea.kt.co.kr",
     "slug": "ktdn",
     "status": "down",
-    "uptime": "58.22%",
+    "uptime": "58.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "24.92%",
+    "uptimeYear": "24.65%",
     "time": 683,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 719,
+    "timeYear": 713,
     "dailyMinutesDown": {
-      "2022-08-17": 105,
+      "2022-08-18": 106,
+      "2022-08-17": 1440,
       "2022-08-16": 1440,
       "2022-08-15": 1440,
       "2022-08-14": 1440,
@@ -415,8 +416,7 @@
       "2021-10-28": 22,
       "2021-10-25": 42,
       "2021-10-13": 8,
-      "2021-09-11": 6,
-      "2021-08-18": 45
+      "2021-09-11": 6
     }
   },
   {
@@ -425,18 +425,19 @@
     "icon": "https://favicons.githubusercontent.com/scm.chelsea.kt.co.kr",
     "slug": "gitlab",
     "status": "down",
-    "uptime": "85.99%",
+    "uptime": "85.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.88%",
+    "uptimeYear": "74.61%",
     "time": 1018,
-    "timeDay": 584,
-    "timeWeek": 580,
+    "timeDay": 849,
+    "timeWeek": 639,
     "timeMonth": 695,
     "timeYear": 1037,
     "dailyMinutesDown": {
-      "2022-08-17": 105,
+      "2022-08-18": 106,
+      "2022-08-17": 1440,
       "2022-08-16": 1440,
       "2022-08-15": 1440,
       "2022-08-14": 1440,
@@ -540,8 +541,7 @@
       "2021-10-28": 22,
       "2021-10-25": 41,
       "2021-09-28": 74,
-      "2021-09-11": 5,
-      "2021-08-18": 45
+      "2021-09-11": 5
     }
   },
   {
@@ -550,18 +550,19 @@
     "icon": "https://favicons.githubusercontent.com/issue.chelsea.kt.co.kr",
     "slug": "orchestra",
     "status": "down",
-    "uptime": "78.73%",
+    "uptime": "78.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "61.94%",
-    "time": 1918,
+    "uptimeYear": "61.68%",
+    "time": 1919,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1838,
+    "timeYear": 1840,
     "dailyMinutesDown": {
-      "2022-08-17": 106,
+      "2022-08-18": 107,
+      "2022-08-17": 1440,
       "2022-08-16": 1440,
       "2022-08-15": 1440,
       "2022-08-14": 1440,
@@ -705,8 +706,7 @@
       "2021-11-04": 20,
       "2021-10-25": 41,
       "2021-09-15": 102,
-      "2021-09-11": 5,
-      "2021-08-18": 44
+      "2021-09-11": 5
     }
   },
   {
@@ -715,18 +715,19 @@
     "icon": "https://favicons.githubusercontent.com/repo.chelsea.kt.co.kr",
     "slug": "nexus",
     "status": "down",
-    "uptime": "78.83%",
+    "uptime": "78.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "61.96%",
-    "time": 1542,
+    "uptimeYear": "61.69%",
+    "time": 1543,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1640,
+    "timeYear": 1622,
     "dailyMinutesDown": {
-      "2022-08-17": 106,
+      "2022-08-18": 107,
+      "2022-08-17": 1440,
       "2022-08-16": 1440,
       "2022-08-15": 1440,
       "2022-08-14": 1440,
@@ -868,8 +869,7 @@
       "2022-03-31": 965,
       "2022-01-26": 52,
       "2021-10-25": 40,
-      "2021-09-11": 4,
-      "2021-08-18": 44
+      "2021-09-11": 4
     }
   },
   {
@@ -878,18 +878,19 @@
     "icon": "https://favicons.githubusercontent.com/build.chelsea.kt.co.kr",
     "slug": "jenkins",
     "status": "down",
-    "uptime": "85.59%",
+    "uptime": "85.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.81%",
+    "uptimeYear": "74.54%",
     "time": 648,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 665,
+    "timeYear": 658,
     "dailyMinutesDown": {
-      "2022-08-17": 106,
+      "2022-08-18": 107,
+      "2022-08-17": 1440,
       "2022-08-16": 1440,
       "2022-08-15": 1440,
       "2022-08-14": 1440,
@@ -991,8 +992,7 @@
       "2021-10-25": 34,
       "2021-10-15": 13,
       "2021-10-13": 5,
-      "2021-09-11": 4,
-      "2021-08-18": 43
+      "2021-09-11": 4
     }
   },
   {
@@ -1001,18 +1001,19 @@
     "icon": "https://favicons.githubusercontent.com/deploy.chelsea.kt.co.kr",
     "slug": "ansible",
     "status": "down",
-    "uptime": "93.80%",
+    "uptime": "93.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "88.89%",
-    "time": 1511,
+    "uptimeYear": "88.62%",
+    "time": 1513,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1639,
+    "timeYear": 1641,
     "dailyMinutesDown": {
-      "2022-08-17": 106,
+      "2022-08-18": 107,
+      "2022-08-17": 1440,
       "2022-08-16": 1440,
       "2022-08-15": 1440,
       "2022-08-14": 1440,
@@ -1061,8 +1062,7 @@
       "2021-12-12": 1440,
       "2021-12-11": 1415,
       "2021-10-25": 34,
-      "2021-09-11": 4,
-      "2021-08-18": 43
+      "2021-09-11": 4
     }
   },
   {
@@ -1071,18 +1071,19 @@
     "icon": "https://favicons.githubusercontent.com/chat.chelsea.kt.co.kr",
     "slug": "matter-most",
     "status": "down",
-    "uptime": "86.14%",
+    "uptime": "86.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "75.12%",
-    "time": 586,
-    "timeDay": 576,
-    "timeWeek": 566,
+    "uptimeYear": "74.85%",
+    "time": 585,
+    "timeDay": 590,
+    "timeWeek": 588,
     "timeMonth": 593,
-    "timeYear": 604,
+    "timeYear": 605,
     "dailyMinutesDown": {
-      "2022-08-17": 106,
+      "2022-08-18": 107,
+      "2022-08-17": 1440,
       "2022-08-16": 1440,
       "2022-08-15": 1440,
       "2022-08-14": 1440,
@@ -1179,8 +1180,7 @@
       "2022-03-09": 17,
       "2021-10-29": 16,
       "2021-10-25": 33,
-      "2021-09-11": 3,
-      "2021-08-18": 42
+      "2021-09-11": 3
     }
   },
   {
@@ -1189,18 +1189,19 @@
     "icon": "https://favicons.githubusercontent.com/wiki.chelsea.kt.co.kr",
     "slug": "xwiki",
     "status": "down",
-    "uptime": "47.91%",
+    "uptime": "47.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "6.37%",
-    "time": 835,
+    "uptimeYear": "6.10%",
+    "time": 834,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 818,
+    "timeYear": 823,
     "dailyMinutesDown": {
-      "2022-08-17": 106,
+      "2022-08-18": 107,
+      "2022-08-17": 1440,
       "2022-08-16": 1440,
       "2022-08-15": 1440,
       "2022-08-14": 1440,
@@ -1543,8 +1544,7 @@
       "2021-09-11": 1440,
       "2021-09-10": 1440,
       "2021-09-09": 931,
-      "2021-08-20": 11,
-      "2021-08-18": 41
+      "2021-08-20": 11
     }
   },
   {
@@ -1553,18 +1553,19 @@
     "icon": "https://favicons.githubusercontent.com/chelsea.kt.co.kr",
     "slug": "chelsea-product-api",
     "status": "down",
-    "uptime": "73.29%",
+    "uptime": "73.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.35%",
-    "time": 375,
+    "uptimeYear": "52.08%",
+    "time": 376,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 383,
+    "timeYear": 371,
     "dailyMinutesDown": {
-      "2022-08-17": 106,
+      "2022-08-18": 107,
+      "2022-08-17": 1440,
       "2022-08-16": 1440,
       "2022-08-15": 1440,
       "2022-08-14": 1440,
@@ -1740,8 +1741,7 @@
       "2022-02-25": 1440,
       "2022-02-24": 1145,
       "2021-10-25": 32,
-      "2021-09-11": 2,
-      "2021-08-18": 40
+      "2021-09-11": 2
     }
   },
   {
@@ -1750,18 +1750,19 @@
     "icon": "https://favicons.githubusercontent.com/chelsea.kt.co.kr",
     "slug": "chelsea-project-api",
     "status": "down",
-    "uptime": "73.29%",
+    "uptime": "73.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.35%",
+    "uptimeYear": "52.08%",
     "time": 195,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 198,
+    "timeYear": 193,
     "dailyMinutesDown": {
-      "2022-08-17": 106,
+      "2022-08-18": 107,
+      "2022-08-17": 1440,
       "2022-08-16": 1440,
       "2022-08-15": 1440,
       "2022-08-14": 1440,
@@ -1937,8 +1938,7 @@
       "2022-02-25": 1440,
       "2022-02-24": 1143,
       "2021-10-25": 32,
-      "2021-09-11": 2,
-      "2021-08-18": 39
+      "2021-09-11": 2
     }
   },
   {
@@ -1947,18 +1947,19 @@
     "icon": "https://favicons.githubusercontent.com/ktdn.chelsea.kt.co.kr",
     "slug": "ktdn-article-api",
     "status": "down",
-    "uptime": "57.93%",
+    "uptime": "57.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "24.93%",
-    "time": 460,
+    "uptimeYear": "24.66%",
+    "time": 461,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 444,
+    "timeYear": 443,
     "dailyMinutesDown": {
-      "2022-08-17": 106,
+      "2022-08-18": 107,
+      "2022-08-17": 1440,
       "2022-08-16": 1440,
       "2022-08-15": 1440,
       "2022-08-14": 1440,
@@ -2234,8 +2235,7 @@
       "2021-11-17": 1440,
       "2021-11-16": 1274,
       "2021-10-25": 31,
-      "2021-09-11": 1,
-      "2021-08-18": 38
+      "2021-09-11": 1
     }
   }
 ]
