@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/chelsea.kt.co.kr.ico",
     "slug": "chelsea",
     "status": "down",
-    "uptime": "58.08%",
+    "uptime": "58.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 770,
     "timeDay": 0,
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 746,
     "dailyMinutesDown": {
-      "2023-06-30": 73,
+      "2023-07-01": 83,
+      "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -379,8 +380,7 @@
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
-      "2022-07-02": 1440,
-      "2022-07-01": 1440
+      "2022-07-02": 1440
     }
   },
   {
@@ -389,10 +389,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/ktdn.chelsea.kt.co.kr.ico",
     "slug": "ktdn",
     "status": "down",
-    "uptime": "39.26%",
+    "uptime": "39.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 743,
     "timeDay": 0,
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2023-06-30": 73,
+      "2023-07-01": 83,
+      "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -763,8 +764,7 @@
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
-      "2022-07-02": 1440,
-      "2022-07-01": 1440
+      "2022-07-02": 1440
     }
   },
   {
@@ -773,10 +773,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/scm.chelsea.kt.co.kr.ico",
     "slug": "gitlab",
     "status": "down",
-    "uptime": "58.00%",
+    "uptime": "57.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 778,
     "timeDay": 0,
@@ -784,7 +784,8 @@
     "timeMonth": 0,
     "timeYear": 643,
     "dailyMinutesDown": {
-      "2023-06-30": 73,
+      "2023-07-01": 83,
+      "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -1147,8 +1148,7 @@
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
-      "2022-07-02": 1440,
-      "2022-07-01": 1440
+      "2022-07-02": 1440
     }
   },
   {
@@ -1157,18 +1157,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/issue.chelsea.kt.co.kr.ico",
     "slug": "orchestra",
     "status": "down",
-    "uptime": "53.10%",
+    "uptime": "53.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1096,
+    "time": 1094,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 621,
     "dailyMinutesDown": {
-      "2023-06-30": 73,
+      "2023-07-01": 83,
+      "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -1531,8 +1532,7 @@
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
-      "2022-07-02": 1440,
-      "2022-07-01": 1440
+      "2022-07-02": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/repo.chelsea.kt.co.kr.ico",
     "slug": "nexus",
     "status": "down",
-    "uptime": "53.16%",
+    "uptime": "53.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 2184,
+    "time": 2188,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-30": 73,
+      "2023-07-01": 83,
+      "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -1915,8 +1916,7 @@
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
-      "2022-07-02": 1440,
-      "2022-07-01": 1440
+      "2022-07-02": 1440
     }
   },
   {
@@ -1925,18 +1925,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/build.chelsea.kt.co.kr.ico",
     "slug": "jenkins",
     "status": "down",
-    "uptime": "57.72%",
+    "uptime": "57.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 631,
+    "time": 632,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 561,
     "dailyMinutesDown": {
-      "2023-06-30": 73,
+      "2023-07-01": 83,
+      "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -2299,8 +2300,7 @@
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
-      "2022-07-02": 1440,
-      "2022-07-01": 1440
+      "2022-07-02": 1440
     }
   },
   {
@@ -2309,18 +2309,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/deploy.chelsea.kt.co.kr.ico",
     "slug": "ansible",
     "status": "down",
-    "uptime": "63.26%",
+    "uptime": "63.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "3.20%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "3.10%",
     "time": 1961,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1907,
+    "timeYear": 1936,
     "dailyMinutesDown": {
-      "2023-06-30": 74,
+      "2023-07-01": 83,
+      "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -2673,8 +2674,7 @@
       "2022-07-15": 1440,
       "2022-07-14": 1440,
       "2022-07-13": 1440,
-      "2022-07-12": 895,
-      "2022-07-01": 44
+      "2022-07-12": 895
     }
   },
   {
@@ -2683,18 +2683,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/chat.chelsea.kt.co.kr.ico",
     "slug": "matter-most",
     "status": "down",
-    "uptime": "58.09%",
+    "uptime": "58.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 577,
+    "time": 578,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 546,
     "dailyMinutesDown": {
-      "2023-06-30": 74,
+      "2023-07-01": 83,
+      "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -3057,8 +3058,7 @@
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
-      "2022-07-02": 1440,
-      "2022-07-01": 1440
+      "2022-07-02": 1440
     }
   },
   {
@@ -3067,10 +3067,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.chelsea.kt.co.kr.ico",
     "slug": "xwiki",
     "status": "down",
-    "uptime": "32.31%",
+    "uptime": "32.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -3078,7 +3078,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-30": 74,
+      "2023-07-01": 84,
+      "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -3441,8 +3442,7 @@
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
-      "2022-07-02": 1440,
-      "2022-07-01": 1440
+      "2022-07-02": 1440
     }
   },
   {
@@ -3451,10 +3451,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/chelsea.kt.co.kr.ico",
     "slug": "chelsea-product-api",
     "status": "down",
-    "uptime": "49.31%",
+    "uptime": "49.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 346,
     "timeDay": 0,
@@ -3462,7 +3462,8 @@
     "timeMonth": 0,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2023-06-30": 74,
+      "2023-07-01": 84,
+      "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -3825,8 +3826,7 @@
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
-      "2022-07-02": 1440,
-      "2022-07-01": 1440
+      "2022-07-02": 1440
     }
   },
   {
@@ -3835,10 +3835,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/chelsea.kt.co.kr.ico",
     "slug": "chelsea-project-api",
     "status": "down",
-    "uptime": "49.31%",
+    "uptime": "49.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 170,
     "timeDay": 0,
@@ -3846,7 +3846,8 @@
     "timeMonth": 0,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2023-06-30": 74,
+      "2023-07-01": 84,
+      "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -4209,8 +4210,7 @@
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
-      "2022-07-02": 1440,
-      "2022-07-01": 1440
+      "2022-07-02": 1440
     }
   },
   {
@@ -4219,10 +4219,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/ktdn.chelsea.kt.co.kr.ico",
     "slug": "ktdn-article-api",
     "status": "down",
-    "uptime": "38.98%",
+    "uptime": "38.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 339,
     "timeDay": 0,
@@ -4230,7 +4230,8 @@
     "timeMonth": 0,
     "timeYear": 343,
     "dailyMinutesDown": {
-      "2023-06-30": 74,
+      "2023-07-01": 84,
+      "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
       "2023-06-27": 1440,
@@ -4593,8 +4594,7 @@
       "2022-07-05": 1440,
       "2022-07-04": 1440,
       "2022-07-03": 1440,
-      "2022-07-02": 1440,
-      "2022-07-01": 1440
+      "2022-07-02": 1440
     }
   }
 ]
